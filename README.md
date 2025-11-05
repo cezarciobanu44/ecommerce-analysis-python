@@ -1,5 +1,9 @@
 # E-commerce Sales Analysis
 
+## 📊 Monthly Revenue Trend
+
+![Monthly Revenue Trend](Recording-2025-11-05-162452.jpg)
+
 ## 📊 Project Overview
 Analysis of e-commerce data from the Fake Store API to uncover insights about product performance, revenue trends, and customer purchasing behavior using Python.
 
